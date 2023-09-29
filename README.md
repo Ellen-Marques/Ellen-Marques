@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Ellen_Marques 😁
+## Bem-vindo(a) ao perfil da Ellen-Marques 😁
 
  <div>
    <a href="https://github.com/Ellen-Marques">
@@ -17,7 +17,6 @@
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ellen_marques_25" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "ekkenmarques09@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
